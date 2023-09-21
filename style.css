@@ -18,3 +18,39 @@ ul
     font: weight 700;
     list-style-type: square;
 }
+
+button {
+background-color: aliceblue;
+text-size: 25%;
+font-weight: bold;
+padding: 1%;
+margin: 1%;};
+
+:hover {
+  color: red;
+}
+li:hover {
+
+    color: blueviolet;
+}
+
+
+a:visited {
+    color: hotpink;
+
+a:active {
+        color: purple;
+        }
+
+#Harrys Place {
+    width: 5rem;
+    height: 5rem;
+    border-radius: 05%;
+    border: 5px solid blue;
+    object-fit: scale-down;
+    float:left;
+    margin:15px
+
+
+}
+
